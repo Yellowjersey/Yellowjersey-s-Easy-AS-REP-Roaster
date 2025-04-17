@@ -7,7 +7,7 @@
 
 Just CHMOD +x the AS-REPRoaster file then run it with ./
 
-* You must have Python3 installed first *
+* You must have Python3 installed first 
 
 The script will pull all other requirements after verifying what OS you are running. 
 
